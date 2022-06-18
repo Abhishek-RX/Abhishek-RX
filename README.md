@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek kumar
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on 
 - 📫 Reach me via my email - abhishek062000@gmail.com
 
