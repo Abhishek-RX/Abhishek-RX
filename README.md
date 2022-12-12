@@ -32,7 +32,5 @@ I am Abhishek kumar, I am a Java back-end developer and love writing clean and m
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Top Langs](/?username=Abhishek-RX&hide=TeX&layout=compact)
-
 
 
