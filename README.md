@@ -1,3 +1,4 @@
+![Header](./github.png)
 - 👋 Hi, I’m @Abhishek kumar
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning Web development
@@ -8,7 +9,7 @@
 Abhishek-RX/Abhishek-RX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Header](./github-header-image(1).png)
+
 
 [![MasterHead](https://i.gifer.com/bJk.gif)](https://github.com/Abhishek-RX)
 ### Hi there 👋
