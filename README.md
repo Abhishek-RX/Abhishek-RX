@@ -8,7 +8,8 @@
 Abhishek-RX/Abhishek-RX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/bJk.gif">
+![Header](./[Your header image])
+
 [![MasterHead](https://i.gifer.com/bJk.gif)](https://github.com/Abhishek-RX)
 ### Hi there 👋
 
@@ -36,7 +37,6 @@ I am Abhishek kumar, I am a Java back-end developer and love writing clean and m
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-RX&count_private=true&show_icons=true&include_all_commits=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhishek-RX&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-RX&hide=TeX&layout=compact)
 
