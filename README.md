@@ -35,6 +35,9 @@ I am Abhishek kumar, I am a Java back-end developer and love writing clean and m
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-RX&count_private=true&show_icons=true&include_all_commits=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhishek-RX&theme=dark)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-RX&hide=TeX&layout=compact)
 
 
