@@ -1,17 +1,14 @@
 ![Header](./github.png)
 - 👋 Hi, I’m @Abhishek kumar
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Team projects.
-- 📫 Reach me via my email - abhishek062000@gmail.com
+- 🌱 I’m currently learning Web developmet
 
 <!---
 Abhishek-RX/Abhishek-RX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-[![MasterHead](https://i.gifer.com/bJk.gif)](https://github.com/Abhishek-RX)
+[![MasterHead](./github.png)](https://github.com/Abhishek-RX)
 ### Hi there 👋
 
 I am Abhishek kumar, I am a Java back-end developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
