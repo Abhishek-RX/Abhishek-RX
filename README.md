@@ -8,7 +8,7 @@
 Abhishek-RX/Abhishek-RX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Header](./[Your header image])
+![Header](./github-header-image.png)
 
 [![MasterHead](https://i.gifer.com/bJk.gif)](https://github.com/Abhishek-RX)
 ### Hi there 👋
