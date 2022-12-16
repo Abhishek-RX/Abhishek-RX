@@ -31,6 +31,7 @@ I am Abhishek kumar, I am a Java back-end developer and love writing clean and m
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+https://github-readme-stats.vercel.app/api?username=Abhishek-RX&show_icons=true&hide_border=true
 
 
 
