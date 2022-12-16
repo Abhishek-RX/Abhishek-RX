@@ -15,7 +15,7 @@ I am Abhishek kumar, I am a Java back-end developer and love writing clean and m
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar-370734214/)](https://www.linkedin.com/in/abhishek-kumar-370734214/)
 [![Gmail Badge](https://img.shields.io/badge/-abhishek062000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek062000@gmail.com)](mailto:abhishek062000@gmail.com)
 
-[![Protfolio Badge](https://img.shields.io/badge/-Abhishek-c14438?style=flat-square&logo=Protfolio&logoColor=blue&link=https://abhishek-rx.github.io/)](https://abhishek-rx.github.io/)
+[![Protfolio Badge](https://img.shields.io/badge/-Protfolio-white?style=flat-round&logo=Protfolio&logoColor=blue&link=https://abhishek-rx.github.io/)](https://abhishek-rx.github.io/)
 
 ## ⚡ Technologies
 
